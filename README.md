@@ -62,7 +62,7 @@ The dataset contains the following features:
 - SOURCE: The class target representing the patient treatment classification (nominal - binary: 1 for "in-care" and 0 for "out-care").
 
 
-### `Data Preparation`<a id="">data-preparation</a>
+### `Data Preparation`<a id="data-preparation"></a>
 
 Within our data preparation phase, we performed the following tasks:
  - Clean Data
@@ -70,7 +70,7 @@ Within our data preparation phase, we performed the following tasks:
     - Filled Missing Values
     
 
-### `Explanatory Data Analysis`<a id="">explanatory-data-analysis</a>
+### `Explanatory Data Analysis`<a id="explanatory-data-analysis"></a>
 
 In this project, EDA is conducted to gain insights and understand the data in relation to the business problem, objectives, and goals.
 

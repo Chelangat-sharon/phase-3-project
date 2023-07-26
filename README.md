@@ -1,8 +1,6 @@
-# Phase-3-Project
+## `Patient Treatment Classification Project`
 
-## Patient Treatment Classification Project
-
-### Table of Contents
+### `Table of Contents`
 1. [Overview](#overview)
 2. [Business Understanding](#business-understanding)
 3. [Business Objectives](#business-objectives)
@@ -16,7 +14,7 @@
 10. [Conclusion](#conclusion)
 
 
-### Overview<a id="overview"></a>
+### `Overview`<a id="overview"></a>
 
 This project focuses on developing a machine learning model that classifies patient treatment as in-care or out-care based on their laboratory test results. The dataset comprises electronic health records collected from a private hospital in Indonesia.
 
